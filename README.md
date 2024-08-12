@@ -1,5 +1,3 @@
-![Screenshot 2024-08-12 222703](https://github.com/user-attachments/assets/4b7381a4-e0c9-4e03-b9ee-7c43ae58591a)# Netflix Clone
-
 ## Overview
 
 This is a Netflix clone application built using the MERN stack (MongoDB, Express, React, Node.js). The project includes features such as user authentication, fetching movies and TV shows from The Movie Database (TMDb) API, and a responsive UI built with Vite and Tailwind CSS.
