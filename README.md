@@ -73,7 +73,7 @@ This is a Netflix clone application built using the MERN stack (MongoDB, Express
 ### Prerequisites
 1. Clone the project in your device
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/AhmedShams999/Netflix-clone.git
 2. inatall all the dependencies (and intall the dependencies in frontend folder)
      ```bash
    npm install
