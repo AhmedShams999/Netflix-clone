@@ -79,7 +79,7 @@ This is a Netflix clone application built using the MERN stack (MongoDB, Express
    npm install
 3. Run the project backend:
    ```bash
-   npm run build
+   npm run dev
 4. Run the project frontend:
    ```bash
    cd frontend
