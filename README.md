@@ -46,11 +46,11 @@ This is a Netflix clone application built using the MERN stack (MongoDB, Express
 
 ## Features
 
-User Authentication: Secure login and registration using JWT (JSON Web Tokens).
-Browse Movies and TV Shows: Fetch and display movies and TV shows from TMDb API.
-Responsive UI: Built with Vite, React, and Tailwind CSS for a fast and responsive user experience.
-Search Functionality: Search for movies and TV shows or a person.
-Search History: You can see your search history and delete them.
+- User Authentication: Secure login and registration using JWT (JSON Web Tokens).
+- Browse Movies and TV Shows: Fetch and display movies and TV shows from TMDb API.
+- Responsive UI: Built with Vite, React, and Tailwind CSS for a fast and responsive user experience.
+- Search Functionality: Search for movies and TV shows or a person.
+- Search History: You can see your search history and delete them.
 
 ## Technologies Used
 
